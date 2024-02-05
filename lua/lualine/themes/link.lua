@@ -1,4 +1,4 @@
-local tol = require("tol.colors")
+local tol = require("link.colors")
 
 return {
     normal = {

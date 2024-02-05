@@ -1,5 +1,5 @@
 local util = {}
-local theme = require("tol.theme")
+local theme = require("link.theme")
 
 local set_hl = function(table)
     for group, conf in pairs(table) do

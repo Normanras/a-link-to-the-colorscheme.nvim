@@ -1,6 +1,6 @@
 -- see neovim repo at src/nvim/highlight_group.c
 
-local t = require("tol.colors")
+local t = require("link.colors")
 
 local theme = {}
 
