@@ -1,1 +1,1 @@
-require("dracula").load('dracula-soft')
+require("link").load('link-soft')
