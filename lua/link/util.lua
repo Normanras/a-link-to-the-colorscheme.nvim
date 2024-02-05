@@ -11,7 +11,7 @@ function util.load()
     vim.api.nvim_command("hi clear")
     vim.o.background = "dark"
     vim.o.termguicolors = true
-    vim.g.colors_name = "tol"
+    vim.g.colors_name = "link"
 
     local coc = theme.loadCoc()
     local custom = theme.loadCustom()
