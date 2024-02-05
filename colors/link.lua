@@ -1,1 +1,1 @@
-require("link")
+require("link")._load()

@@ -1,14 +1,14 @@
 return {
     -- syntax
     blue = "#0060d0",
-    comment = "#383838",
+    comment = "#8e8e8e",
     forest = "#c0a858",
     gray = "#f8f8f8",
     green = "#b0d800",
     orange = "#f87800",
     pink = "#e860b0",
     sky = "#88a0e8",
-    taupe = "#f0a068", -- default fg
+    taupe = "#499849", -- default fg
     yellow = "#f0d840",
 
     -- brackets
@@ -40,7 +40,7 @@ return {
     warning = "#f5c68f",
 
     -- backgrounds and foregrounds
-    bg = "#282828", -- default bg
+    bg = "#1a1a1a", -- default bg
     bg_mono1 = "#33384d", -- floats, active/in front
     bg_mono2 = "#3d435d",
     bg_mono3 = "#474e6c", -- visual, selections
