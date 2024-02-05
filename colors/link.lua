@@ -1,1 +1,1 @@
-require("link")
+require("dracula").load()

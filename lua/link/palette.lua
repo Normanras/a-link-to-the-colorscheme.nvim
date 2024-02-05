@@ -1,0 +1,28 @@
+---@class Palette
+return {
+   bg = "#1a1a1a",
+   fg = "#F8F8F2",
+   selection = "#44475A",
+   comment = "#88a0e8",
+   red = "#af0001",
+   orange = "#f87800",
+   yellow = "#f0d840",
+   green = "#499849",
+   purple = "#9ec0fa",
+   cyan = "#0060d0",
+   pink = "#e860b0",
+   bright_red = "#db6b6c",
+   bright_green = "#49c949",
+   bright_yellow = "#efe397",
+   bright_blue = "#76a0d1",
+   bright_magenta = "#FF92DF",
+   bright_cyan = "#A4FFFF",
+   bright_white = "#FFFFFF",
+   menu = "#292828",
+   visual = "#3E4452",
+   gutter_fg = "#4B5263",
+   nontext = "#3B4048",
+   white = "#ABB2BF",
+   black = "#191A21",
+}
+
